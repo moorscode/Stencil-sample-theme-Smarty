@@ -1,5 +1,8 @@
 # Stencil sample theme: Smarty
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/moorscode/stencil-sample-theme-smarty/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/moorscode/stencil-sample-theme-smarty/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/moorscode/stencil-sample-theme-smarty/badges/build.png?b=master)](https://scrutinizer-ci.com/g/moorscode/stencil-sample-theme-smarty/build-status/master)
+
 This sample theme is used to illustrate the bare minimum functionality a Stencil theme needs to operate.
 The directory setup in this theme has been made to keep the structure clean and clear.
 
