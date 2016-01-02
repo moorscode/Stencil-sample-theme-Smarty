@@ -13,6 +13,9 @@ if ( ! function_exists( 'add_filter' ) ) {
 	exit();
 }
 
+// Load Stencil framework.
+require_once 'stencil/stencil-loader.php';
+
 // Include WordPress Objects (Optional).
 require_once 'functions/wordpress-objects.php';
 
