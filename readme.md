@@ -8,6 +8,13 @@ The directory setup in this theme has been made to keep the structure clean and 
 
 *Keep in mind that the code has been written to be compatible with PHP 5.2 - removing small functions in favor of anonymous functions can make it even more compact.*
 
+## Stencil
+
+Since WordPress does not allow Stencil to be in the plugin directory, the best place to put the framework is inside a theme.
+All sample themes now contain the core plugin and the implementation(s) they might require.
+
+All you need is to install a sample theme to have full functionality.
+
 ## Functions
 
 ### get_stencil()
